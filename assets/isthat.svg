@@ -1,0 +1,23 @@
+<svg width="250" height="70" xmlns="http://www.w3.org/2000/svg">
+  <path
+  d="M10 10 L20 10 L20 60 L10 60 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M30 10 L60 10 L60 20 L40 20 L40 30 L60 30 L60 60 L30 60 L30 50 L50 50 L50 40 L30 40 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M90 10 L120 10 L120 20 L110 20 L110 60 L100 60 L100 20 L90 20 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M90 10 L120 10 L120 20 L110 20 L110 60 L100 60 L100 20 L90 20 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M130 10 L140 10 L140 30 L150 30 L150 10 L160 10 L160 60 L150 60 L150 40 L140 40 L140 60 130 60 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M170 10 L200 10 L200 60 L190 60 L190 20 L180 20 L180 30 L190 30 L190 40 L180 40 L180 60 L170 60 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M210 10 L240 10 L240 20 L230 20 L230 60 L220 60 L220 20 L210 20 Z"
+  style="fill:#d7363d;" />
+</svg>

@@ -1,0 +1,11 @@
+<svg width="185" height="95" xmlns="http://www.w3.org/2000/svg">
+  <path
+  d="M10 10 L25 10 L25 40 L40 40 L40 10 L55 10 L55 85 L40 85 L40 55 L25 55 L25 85 L10 85 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M70 10 L115 10 L115 25 L85 25 L85 40 L115 40 L115 55 L85 55 L85 70 L115 70 L115 85 L70 85 Z"
+  style="fill:#d7363d;" />
+  <path
+  d="M130 10 L145 10 L145 40 L160 40 L160 10 L175 10 L175 55 L160 55 L160 85 L145 85 L145 55 L130 55 Z"
+  style="fill:#d7363d;" />
+</svg>
